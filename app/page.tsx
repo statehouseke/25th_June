@@ -149,7 +149,7 @@ export default function HomePage() {
 
               {/* Telegram Button */}
               <a 
-                href="#" // You can replace this with your actual Telegram link
+                href="https://t.me/ngulusumu_sec" // You can replace this with your actual Telegram link
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto"
